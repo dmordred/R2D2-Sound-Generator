@@ -9,7 +9,13 @@
   
   Participated in the Instructable Arduino Contest 2019
   https://www.instructables.com/R2D2-Sound-Generator/
+
+  Reviewed by Caio "Mord" Donini in 09/2024
+  Added random chirps and flexible speed, attach a potentiometer to A5.
+  Go read my book!
+  https://www.amazon.com/Jade-City-Jam-Zed-Zeta-ebook/dp/B0B7QS9DJK/
 ****************************************************/ 
+
 
 #define speakerPin 11
 #define led1Pin 7
